@@ -1,13 +1,13 @@
-package com.brad.minionizer;
+package com.brad.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MinionizerApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MinionizerApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
