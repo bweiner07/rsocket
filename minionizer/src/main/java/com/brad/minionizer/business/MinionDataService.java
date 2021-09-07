@@ -8,7 +8,7 @@ import reactor.core.publisher.Mono;
 
 @Service
 @RequiredArgsConstructor
-public class MinionService {
+public class MinionDataService {
 
     private final ReactiveMongoTemplate mongo;
 

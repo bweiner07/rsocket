@@ -1,4 +1,4 @@
-package com.brad.minionizer.business;
+package com.brad.client.messaging;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
